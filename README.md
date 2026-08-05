@@ -123,7 +123,7 @@ Construir uma base sólida em programação Python, manipulação de dados e fer
 
 | Projeto | Categoria | Tecnologias | Status |
 |:---------|:----------|:------------|:------:|
-| Simulador de Dataset | Python | Python • JSON | ✅ |
+| Simulador de Dataset | Python | Python • JSON | 🚧 |
 | E-commerce Query Engine | SQL | SQLite | 🚧 |
 | Processador de Imagens | NumPy | NumPy | 🚧 |
 
