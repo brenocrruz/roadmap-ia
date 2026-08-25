@@ -1,5 +1,6 @@
-texto = "Eu estou estudando".title()
-print(texto.upper())
+texto = " Eu estou estudando "
+texto_novo = texto.strip()
+print(texto_novo)
 
 
 #texto[0] = "T"
